@@ -1,0 +1,24 @@
+body{
+  background-color: rgb(211, 207, 207);
+}
+
+h1{
+  color: red;
+}
+
+ul{
+  display: flex;
+  list-style: none;
+  justify-content: space-between;
+}
+
+.footer{
+  position: absolute;
+  width: 100%; 
+  bottom: 0;
+  height: 50px;
+  background-color: red;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
