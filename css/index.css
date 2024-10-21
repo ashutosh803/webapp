@@ -22,3 +22,9 @@ ul{
   justify-content: center;
   align-items: center;
 }
+
+.about-us{
+  text-align: center;
+  font-size: 50px;
+  font-family: sans-serif;
+}
