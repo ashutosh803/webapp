@@ -50,3 +50,11 @@ a {
   font-size: 100px;
   text-align: center;
 }
+
+.album {
+  width: 200px;
+  height: 200px;
+  border-radius: 10px;
+  background-color: blueviolet;
+  margin: 50px;
+}
